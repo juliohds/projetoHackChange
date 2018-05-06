@@ -33,7 +33,7 @@
 
       <div class="row">
         <div class="col-md-12">          
-          <h3 style="text-align: center; margin-bottom: 18px; color: white;">Faixa Etária: Jovial <p>
+          <h3 style="text-align: center; margin-bottom: 18px; color: white;">Faixa Etária: <p>
 																			 Idade: 21 ANOS</h3>
           <h1 style="text-align: center; margin-bottom: 18px; color: white;"><font size="6" face='Arial'>JULIO HENRIQUE DOS SANTOS</font></h1>                           
         </div>
@@ -91,52 +91,54 @@
         <div class="col-md-3" style="margin-top: 20px;">
           <div class="card mb-3">
             <div class="card-header">
-              <i class="fa fa-bell-o"></i> Histórico de Negociações</div>
+              <i class="fas fa-exchange-alt"></i> Histórico de Negociações</div>
             <div class="list-group list-group-flush small">
               <a class="list-group-item list-group-item-action" href="#">
                 <div class="media">
-                  <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
+                  <img class="d-flex mr-3 rounded-circle" src="http://pluspng.com/img-png/accept-vector-png-accept-yes-checkmark-symbol-sign-positive-ok-860.png" width="45" alt="">
                   <div class="media-body">
-                    <strong>Contato Com o Cliente</strong>(Sucesso)<strong>Cod: 502</strong>.
+                    <strong>Acordo Pago</strong>(Sucesso)<strong>Cod: 502</strong>.
                     <div class="text-muted smaller">Dia 06/05/2018 08:43 AM</div>
                   </div>
                 </div>
               </a>
+
               <a class="list-group-item list-group-item-action" href="#">
                 <div class="media">
-                  <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
+                  <img class="d-flex mr-3 rounded-circle" src="http://pluspng.com/img-png/accept-vector-png-accept-yes-checkmark-symbol-sign-positive-ok-860.png" width="45" alt="">
                   <div class="media-body">
-                    <strong>Sem Contato</strong>(Insucesso)<strong>Cod: 104</strong>
-                    <div class="text-muted smaller">Dia 05/05/2018 13:47 PM</div>
+                    <strong>Acordo Pago</strong>(Sucesso)<strong>Cod: 502</strong>.
+                    <div class="text-muted smaller">Dia 06/05/2018 08:43 AM</div>
                   </div>
                 </div>
               </a>
+
               <a class="list-group-item list-group-item-action" href="#">
                 <div class="media">
-                  <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
+                  <img class="d-flex mr-3 rounded-circle" src="http://pluspng.com/img-png/accept-vector-png-accept-yes-checkmark-symbol-sign-positive-ok-860.png" width="45" alt="">
                   <div class="media-body">
-                    <strong>Nao Aceita Proposta</strong>(Sucesso)<strong>Cod: 100</strong>
-                    <div class="text-muted smaller">Dia 04/05/2018 16:25 PM</div>
+                    <strong>Acordo Pago</strong>(Sucesso)<strong>Cod: 502</strong>.
+                    <div class="text-muted smaller">Dia 06/05/2018 08:43 AM</div>
                   </div>
                 </div>
               </a>
+
               <a class="list-group-item list-group-item-action" href="#">
                 <div class="media">
-                  <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
+                  <img class="d-flex mr-3 rounded-circle" src="http://pluspng.com/img-png/accept-vector-png-accept-yes-checkmark-symbol-sign-positive-ok-860.png" width="45" alt="">
                   <div class="media-body">
-                    <i class="fa fa-code-fork"></i>
-                    <strong>Pediu para retornar após espediente</strong>(Sucesso)<strong>Cod: 145</strong>
-                    <div class="text-muted smaller">Dia 03/05/2018 10:23 AM</div>
+                    <strong>Acordo Pago</strong>(Sucesso)<strong>Cod: 502</strong>.
+                    <div class="text-muted smaller">Dia 06/05/2018 08:43 AM</div>
                   </div>
                 </div>
               </a>
+
               <a class="list-group-item list-group-item-action" href="#">
                 <div class="media">
-                  <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
+                  <img class="d-flex mr-3 rounded-circle" src="https://1001freedownloads.s3.amazonaws.com/vector/thumb/146499/molumen_red_round_error_warning_icon.png" width="45" alt="">
                   <div class="media-body">
-                    <i class="fa fa-code-fork"></i>s
-                    <strong>Parente atendeu</strong>(Insucesso)<strong>Cod: 220</strong>
-                    <div class="text-muted smaller">Dia 03/05/2018 08:23 AM</div>
+                    <strong>Não Pago</strong>(Sucesso)<strong>Cod: 502</strong>.
+                    <div class="text-muted smaller">Dia 06/05/2018 08:43 AM</div>
                   </div>
                 </div>
               </a>

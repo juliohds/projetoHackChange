@@ -101,7 +101,7 @@ body {
 .ui-slider .ui-slider-handle {
 	position: absolute !important;
 	z-index: 2 !important;
-	width: 3.2em !important;
+	width: 4.2em !important;
 	height: 2.2em !important;
 	cursor: default !important;
 	margin: 0 -20px auto !important;
