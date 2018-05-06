@@ -24,7 +24,7 @@
 <body class="fixed-nav sticky-footer bg-dark" id="page-top" background="https://st3.depositphotos.com/9389136/14487/i/1600/depositphotos_144874073-stock-photo-architecture-background-glass-facade-system.jpg">
   <!-- Navigation-->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
-    <a class="navbar-brand" href="interfaceColaborador.php">Perfil do Inadimplente</a>
+    <a class="navbar-brand" href="interfaceColaborador.php">Perfil do Cliente</a>
   </nav>
 
   <div class="content-wrapper">
@@ -33,8 +33,9 @@
 
       <div class="row">
         <div class="col-md-12">          
-          <h3 style="text-align: center; margin-bottom: 20px; color: white;">Perfil: Jovial - Idade: 21 ANOS.</h3>
-          <h1 style="text-align: center; margin-bottom: 20px; color: white;">JULIO HENRIQUE DOS SANTOS</h1>                           
+          <h3 style="text-align: center; margin-bottom: 18px; color: white;">Faixa Etária: Jovial <p>
+																			 Idade: 21 ANOS</h3>
+          <h1 style="text-align: center; margin-bottom: 18px; color: white;"><font size="6" face='Arial'>JULIO HENRIQUE DOS SANTOS</font></h1>                           
         </div>
       </div>
 
@@ -43,82 +44,45 @@
         <div class="col-md-3" style="margin-top: 20px;">
           <div class="card mb-3">
             <div class="card-header">
-              <i class="far fa-comment"></i> Frases Recomendadas</div>
+              <i class="far fa-comment"></i> Frases Tipicas da Região</div>
             <div class="list-group list-group-flush small">
               <a class="list-group-item list-group-item-action" href="#">
                 <div class="media">
-                  <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
+                  
                   <div class="media-body">
-                    <strong>David Miller</strong>posted a new article to
-                    <strong>David Miller Website</strong>.
-                    <div class="text-muted smaller">Today at 5:43 PM - 5m ago</div>
-                  </div>
+                    <strong><font size="4" face='Arial'>Amolar </font></strong> no Parana significa <strong><font size="4" face='Arial'>incomodar</font></strong><p><p>
+					<strong><font size="4" face='Arial'>Basculhar</font></strong> no Parana significa <strong><font size="4" face='Arial'>procurar</font></strong><p>
+					<strong><font size="4" face='Arial'>Avacalhar</font></strong> no Parana significa <strong><font size="4" face='Arial'>desmoralizar</font></strong><p>
+					<strong><font size="4" face='Arial'>Desgarrado</font></strong> no Parana significa <strong><font size="4" face='Arial'>perdido</font></strong><p>
+					<strong><font size="4" face='Arial'>Sobejar</font></strong> no Parana significa <strong><font size="4" face='Arial'>sobrar</font></strong><p>
+					<strong><font size="4" face='Arial'>Macambúzio</font></strong> no Parana significa <strong><font size="4" face='Arial'>triste</font></strong><p>
+					<strong><font size="4" face='Arial'>Campeando</font></strong> no Parana significa <strong><font size="4" face='Arial'>procurando</font></strong><p>
+					
+                 </div>
                 </div>
               </a>
-              <a class="list-group-item list-group-item-action" href="#">
-                <div class="media">
-                  <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
-                  <div class="media-body">
-                    <strong>Samantha King</strong>sent you a new message!
-                    <div class="text-muted smaller">Today at 4:37 PM - 1hr ago</div>
-                  </div>
-                </div>
-              </a>
-              <a class="list-group-item list-group-item-action" href="#">
-                <div class="media">
-                  <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
-                  <div class="media-body">
-                    <strong>Jeffery Wellings</strong>added a new photo to the album
-                    <strong>Beach</strong>.
-                    <div class="text-muted smaller">Today at 4:31 PM - 1hr ago</div>
-                  </div>
-                </div>
-              </a>
-              <a class="list-group-item list-group-item-action" href="#">
-                <div class="media">
-                  <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
-                  <div class="media-body">
-                    <i class="fa fa-code-fork"></i>
-                    <strong>Monica Dennis</strong>forked the
-                    <strong>startbootstrap-sb-admin</strong>repository on
-                    <strong>GitHub</strong>.
-                    <div class="text-muted smaller">Today at 3:54 PM - 2hrs ago</div>
-                  </div>
-                </div>
-              </a>
-              <a class="list-group-item list-group-item-action" href="#">
-                <div class="media">
-                  <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
-                  <div class="media-body">
-                    <i class="fa fa-code-fork"></i>
-                    <strong>Monica Dennis</strong>forked the
-                    <strong>startbootstrap-sb-admin</strong>repository on
-                    <strong>GitHub</strong>.
-                    <div class="text-muted smaller">Today at 3:54 PM - 2hrs ago</div>
-                  </div>
-                </div>
-              </a>
-              <a class="list-group-item list-group-item-action" href="#">View all activity...</a>
+              
+              
             </div>
-            <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>
+            <div class="card-footer small text-muted">Horário Início Atendimento 11:59 AM</div>
           </div>
         </div>
 
         <div class="col-md-6" style="background-color: rgb(52,58,64);">
           <center>
           <br>
-          <img src="me.jpg" width="500" height="300">
+          <img src="me.jpg" width="400" height="350">
           <br><br>                    
             <div class="">
-             <strong class="" style="color: white; ">Probabilidade de Aceitar: &nbsp</strong>
-              <div class="progress" style="width: 40%;">
+             <strong class="" style="color: white; ">Probabilidade de Aceitar a Proposta: &nbsp</strong>
+              <div class="progress" style="width: 88%;">
                 <div id="dynamic" class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
                   <span id="current-progress"></span>
                 </div>
               </div>
             </div>
             <br>
-            <strong class="" style="color: white; margin-top: -25px;">Telefone: (11)99999-9999 &nbsp</strong>
+            <strong class="" style="color: white; margin-top: -25px;">Telefone de Contato: (11)99999-9999 &nbsp</strong>
             <br>
             <strong class="" style="color: white; margin-top: -25px;">Divida: 9,000 reais - Valor Maximo da parcela: 500 Reais - Numero Maximo de Vezes: 90</strong>
           </center>
@@ -133,9 +97,8 @@
                 <div class="media">
                   <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
                   <div class="media-body">
-                    <strong>David Miller</strong>posted a new article to
-                    <strong>David Miller Website</strong>.
-                    <div class="text-muted smaller">Today at 5:43 PM - 5m ago</div>
+                    <strong>Contato Com o Cliente</strong>(Sucesso)<strong>Cod: 502</strong>.
+                    <div class="text-muted smaller">Dia 06/05/2018 08:43 AM</div>
                   </div>
                 </div>
               </a>
@@ -143,8 +106,8 @@
                 <div class="media">
                   <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
                   <div class="media-body">
-                    <strong>Samantha King</strong>sent you a new message!
-                    <div class="text-muted smaller">Today at 4:37 PM - 1hr ago</div>
+                    <strong>Sem Contato</strong>(Insucesso)<strong>Cod: 104</strong>
+                    <div class="text-muted smaller">Dia 05/05/2018 13:47 PM</div>
                   </div>
                 </div>
               </a>
@@ -152,21 +115,8 @@
                 <div class="media">
                   <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
                   <div class="media-body">
-                    <strong>Jeffery Wellings</strong>added a new photo to the album
-                    <strong>Beach</strong>.
-                    <div class="text-muted smaller">Today at 4:31 PM - 1hr ago</div>
-                  </div>
-                </div>
-              </a>
-              <a class="list-group-item list-group-item-action" href="#">
-                <div class="media">
-                  <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
-                  <div class="media-body">
-                    <i class="fa fa-code-fork"></i>
-                    <strong>Monica Dennis</strong>forked the
-                    <strong>startbootstrap-sb-admin</strong>repository on
-                    <strong>GitHub</strong>.
-                    <div class="text-muted smaller">Today at 3:54 PM - 2hrs ago</div>
+                    <strong>Nao Aceita Proposta</strong>(Sucesso)<strong>Cod: 100</strong>
+                    <div class="text-muted smaller">Dia 04/05/2018 16:25 PM</div>
                   </div>
                 </div>
               </a>
@@ -175,16 +125,24 @@
                   <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
                   <div class="media-body">
                     <i class="fa fa-code-fork"></i>
-                    <strong>Monica Dennis</strong>forked the
-                    <strong>startbootstrap-sb-admin</strong>repository on
-                    <strong>GitHub</strong>.
-                    <div class="text-muted smaller">Today at 3:54 PM - 2hrs ago</div>
+                    <strong>Pediu para retornar após espediente</strong>(Sucesso)<strong>Cod: 145</strong>
+                    <div class="text-muted smaller">Dia 03/05/2018 10:23 AM</div>
                   </div>
                 </div>
               </a>
-              <a class="list-group-item list-group-item-action" href="#">View all activity...</a>
+              <a class="list-group-item list-group-item-action" href="#">
+                <div class="media">
+                  <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
+                  <div class="media-body">
+                    <i class="fa fa-code-fork"></i>s
+                    <strong>Parente atendeu</strong>(Insucesso)<strong>Cod: 220</strong>
+                    <div class="text-muted smaller">Dia 03/05/2018 08:23 AM</div>
+                  </div>
+                </div>
+              </a>
+              <a class="list-group-item list-group-item-action" href="#">Duração da ligação</a>
             </div>
-            <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>
+            <div class="card-footer small text-muted">25 Min</div>
           </div>
         </div>
       </div>
